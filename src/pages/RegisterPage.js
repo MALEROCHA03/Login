@@ -68,7 +68,7 @@ export const RegisterPage = () => {
                     className="input100"
                     type="text"
                     name="position"
-                    placeholder="Cargo"
+                    placeholder="Apellido"
                     value={form.position}
                     onChange={onChange}
                 />

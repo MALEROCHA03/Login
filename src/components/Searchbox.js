@@ -2,7 +2,8 @@
 
 import React, { useContext } from "react";
 import { AuthContext } from "../auth/AuthContext";
-import { Navbar, Nav, NavItem, NavDropdown, MenuItem, Container } from 'react-bootstrap';
+import { Navbar, Nav,  NavDropdown, 
+   Container } from 'react-bootstrap';
 export const Searchbox = () => {
   const { auth, logout } = useContext(AuthContext);
 

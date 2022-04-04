@@ -121,6 +121,7 @@ background: linear-gradient(90deg, rgba(228,211,255,1) 0%, rgba(215,141,255,1) 3
   background-color: #f6f8ff;
 }
 
+
 .active_chat {
   background-color: #e7ecff;
 }
@@ -235,7 +236,7 @@ textarea {
 
 
 .alert-info {
-  background-color: rgb(255, 164, 45);
+  background-color:#f09bff;
   color: rgb(0, 0, 0);
   padding-bottom: 20px;
 }
